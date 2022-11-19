@@ -14,8 +14,8 @@
 <title>Notes from a data witch</title>
 <link>https://blog.djnavarro.net/index.html</link>
 </image>
-<generator>quarto-1.1.149</generator>
-<lastBuildDate>Wed, 02 Nov 2022 13:00:00 GMT</lastBuildDate>
+<generator>quarto-1.2.269</generator>
+<lastBuildDate>Wed, 02 Nov 2022 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Everything I know about Mastodon</title>
   <dc:creator>Danielle Navarro</dc:creator>
@@ -60,7 +60,7 @@ licence: free via pixabay licence
 <section id="mastodon-handles-and-tags-look-like-email-addresses" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="mastodon-handles-and-tags-look-like-email-addresses">Mastodon handles and tags look like email addresses</h2>
 <p>On twitter, you simply have a username: I’m <a href="https://twitter.com/djnavarro">djnavarro</a> there, and people would tag me into a conversation by typing <strong><span class="citation" data-cites="djnavarro">@djnavarro</span></strong>.</p>
-<p>On mastodon, you have to specify both your username and the server. It’s more like an email address. My primary handle on mastodon is <a href="%5Bdjnavarro@fosstodon.org%5D(https://fosstodon.org/@djnavarro)">djnavarro@fosstodon.org</a> and people can tag me into a conversation by typing <strong><span class="citation" data-cites="djnavarro">@djnavarro</span><span class="citation" data-cites="fosstodon.org">@fosstodon.org</span></strong>.</p>
+<p>On mastodon, you have to specify both your username and the server. It’s more like an email address. My primary handle on mastodon is <a href="[djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro)">djnavarro@fosstodon.org</a> and people can tag me into a conversation by typing <strong><span class="citation" data-cites="djnavarro">@djnavarro</span><span class="citation" data-cites="fosstodon.org">@fosstodon.org</span></strong>.</p>
 <p>It looks a little odd when you’re used to twitter, but it gets easier.</p>
 <p><img src="https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/img/arawark-chen-tId6clbHnD4-unsplash.jpg" class="img-fluid"></p>
 
@@ -324,7 +324,6 @@ Content warning: trans rights, sexual assault
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {Everything {I} Know about {Mastodon}},
   date = {2022-11-03},
   url = {https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon},
@@ -337,7 +336,7 @@ November 3, 2022. <a href="https://blog.djnavarro.net/posts/2022-11-03_what-i-kn
   <category>Mastodon</category>
   <category>Social Media</category>
   <guid>https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/index.html</guid>
-  <pubDate>Wed, 02 Nov 2022 13:00:00 GMT</pubDate>
+  <pubDate>Wed, 02 Nov 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/img/mammoth.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -1211,7 +1210,6 @@ stations: [[41,15,43,19,11,...,22,35,34,14,119]]</code></pre>
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {Building an {Arrow} {Flight} Server},
   date = {2022-10-18},
   url = {https://blog.djnavarro.net/posts/2022-10-18_arrow-flight},
@@ -1226,7 +1224,7 @@ October 18, 2022. <a href="https://blog.djnavarro.net/posts/2022-10-18_arrow-fli
   <category>R</category>
   <category>Python</category>
   <guid>https://blog.djnavarro.net/posts/2022-10-18_arrow-flight/index.html</guid>
-  <pubDate>Mon, 17 Oct 2022 13:00:00 GMT</pubDate>
+  <pubDate>Mon, 17 Oct 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-10-18_arrow-flight/img/biplane.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -1963,7 +1961,6 @@ n: [[12832,6420,3346,2537,1687,...,1,1,1,1,1]]</code></pre>
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {Data Transfer Between {Python} and {R} with Rpy2 and {Apache}
     {Arrow}},
   date = {2022-09-16},
@@ -1978,7 +1975,7 @@ Rpy2 and Apache Arrow.”</span> September 16, 2022. <a href="https://blog.djnav
   <category>R</category>
   <category>Python</category>
   <guid>https://blog.djnavarro.net/posts/2022-09-16_arrow-and-rpy2/index.html</guid>
-  <pubDate>Thu, 15 Sep 2022 14:00:00 GMT</pubDate>
+  <pubDate>Thu, 15 Sep 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-09-16_arrow-and-rpy2/img/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -2576,7 +2573,6 @@ $family &lt;string&gt;</code></pre>
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {Passing {Arrow} Data Between {R} and {Python} with
     Reticulate},
   date = {2022-09-09},
@@ -2591,7 +2587,7 @@ with Reticulate.”</span> September 9, 2022. <a href="https://blog.djnavarro.ne
   <category>R</category>
   <category>Python</category>
   <guid>https://blog.djnavarro.net/posts/2022-09-09_reticulated-arrow/index.html</guid>
-  <pubDate>Thu, 08 Sep 2022 14:00:00 GMT</pubDate>
+  <pubDate>Thu, 08 Sep 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-09-09_reticulated-arrow/img/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -2824,7 +2820,6 @@ Defaults:danielle timestamp_timeout=2</code></pre>
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {Sudo Ask Me a Password},
   date = {2022-09-04},
   url = {https://blog.djnavarro.net/posts/2022-09-04_sudo-askpass},
@@ -2838,7 +2833,7 @@ Danielle Navarro. 2022. <span>“Sudo Ask Me a Password.”</span> September
   <category>Credentials</category>
   <category>R</category>
   <guid>https://blog.djnavarro.net/posts/2022-09-04_sudo-askpass/index.html</guid>
-  <pubDate>Sat, 03 Sep 2022 14:00:00 GMT</pubDate>
+  <pubDate>Sat, 03 Sep 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-09-04_sudo-askpass/img/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -3167,7 +3162,6 @@ $ pickup &lt;int&gt; 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {How to Visualise a Billion Rows of Data in {R} with {Apache}
     {Arrow}},
   date = {2022-08-23},
@@ -3182,7 +3176,7 @@ in R with Apache Arrow.”</span> August 23, 2022. <a href="https://blog.djnavar
   <category>Data Visualisation</category>
   <category>R</category>
   <guid>https://blog.djnavarro.net/posts/2022-08-23_visualising-a-billion-rows/index.html</guid>
-  <pubDate>Mon, 22 Aug 2022 14:00:00 GMT</pubDate>
+  <pubDate>Mon, 22 Aug 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-08-23_visualising-a-billion-rows/img/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -4429,7 +4423,6 @@ See $metadata for additional Schema metadata</code></pre>
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {Arrays and Tables in {Arrow}},
   date = {2022-05-25},
   url = {https://blog.djnavarro.net/posts/2022-05-25_arrays-and-tables-in-arrow},
@@ -4442,7 +4435,7 @@ Danielle Navarro. 2022. <span>“Arrays and Tables in Arrow.”</span> May
   <category>Apache Arrow</category>
   <category>R</category>
   <guid>https://blog.djnavarro.net/posts/2022-05-25_arrays-and-tables-in-arrow/index.html</guid>
-  <pubDate>Tue, 24 May 2022 14:00:00 GMT</pubDate>
+  <pubDate>Tue, 24 May 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-05-25_arrays-and-tables-in-arrow/img/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -4777,7 +4770,6 @@ Danielle Navarro. 2022. <span>“Arrays and Tables in Arrow.”</span> May
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {Porting a Distill Blog to Quarto},
   date = {2022-04-20},
   url = {https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto},
@@ -4791,7 +4783,7 @@ April 20, 2022. <a href="https://blog.djnavarro.net/posts/2022-04-20_porting-to-
   <category>Blogging</category>
   <category>Reproducibility</category>
   <guid>https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/index.html</guid>
-  <pubDate>Tue, 19 Apr 2022 14:00:00 GMT</pubDate>
+  <pubDate>Tue, 19 Apr 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/img/preview.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -4955,7 +4947,6 @@ April 20, 2022. <a href="https://blog.djnavarro.net/posts/2022-04-20_porting-to-
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {Transitioning from Academia to Industry},
   date = {2022-04-01},
   url = {https://blog.djnavarro.net/academia-to-industry-transition},
@@ -4967,7 +4958,7 @@ Industry.”</span> April 1, 2022. <a href="https://blog.djnavarro.net/academia-
 </div></div></section></div> ]]></description>
   <category>Career</category>
   <guid>https://blog.djnavarro.net/posts/2022-04-01_academia-to-industry-transition/index.html</guid>
-  <pubDate>Thu, 31 Mar 2022 13:00:00 GMT</pubDate>
+  <pubDate>Thu, 31 Mar 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-04-01_academia-to-industry-transition/img/annie-spratt-vF2AC6pjIBY-unsplash.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -5776,7 +5767,6 @@ attr(,"server")
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {Using {Amazon} {S3} with {R}},
   date = {2022-03-17},
   url = {https://blog.djnavarro.net/using-aws-s3-in-r},
@@ -5789,7 +5779,7 @@ Danielle Navarro. 2022. <span>“Using Amazon S3 with R.”</span> March 17,
   <category>Amazon S3</category>
   <category>R</category>
   <guid>https://blog.djnavarro.net/posts/2022-03-17_using-aws-s3-in-r/index.html</guid>
-  <pubDate>Wed, 16 Mar 2022 13:00:00 GMT</pubDate>
+  <pubDate>Wed, 16 Mar 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-03-17_using-aws-s3-in-r/preview-image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -7496,7 +7486,6 @@ time64[ns]</code></pre>
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {Data Types in {Arrow} and {R}},
   date = {2022-03-04},
   url = {https://blog.djnavarro.net/data-types-in-arrow-and-r},
@@ -7509,7 +7498,7 @@ Danielle Navarro. 2022. <span>“Data Types in Arrow and R.”</span> March
   <category>Apache Arrow</category>
   <category>R</category>
   <guid>https://blog.djnavarro.net/posts/2022-03-04_data-types-in-arrow-and-r/index.html</guid>
-  <pubDate>Thu, 03 Mar 2022 13:00:00 GMT</pubDate>
+  <pubDate>Thu, 03 Mar 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-03-04_data-types-in-arrow-and-r/img/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -7707,7 +7696,6 @@ Danielle Navarro. 2022. <span>“Data Types in Arrow and R.”</span> March
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {R Scripts for Twitter Mutes and Blocks},
   date = {2022-02-11},
   url = {https://blog.djnavarro.net/r-scripts-for-twitter-blocks},
@@ -7721,7 +7709,7 @@ Blocks.”</span> February 11, 2022. <a href="https://blog.djnavarro.net/r-scrip
   <category>R</category>
   <category>Social Media</category>
   <guid>https://blog.djnavarro.net/posts/2022-02-11_r-scripts-for-twitter-blocks/index.html</guid>
-  <pubDate>Thu, 10 Feb 2022 13:00:00 GMT</pubDate>
+  <pubDate>Thu, 10 Feb 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-02-11_r-scripts-for-twitter-blocks/img/jeremy-bezanger-Nh1tBGgEcG4-unsplash.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -8415,7 +8403,6 @@ utf8_capitalize("A world as intricate as filigree")</code></pre>
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {Binding {Apache} {Arrow} to {R}},
   date = {2022-01-18},
   url = {https://blog.djnavarro.net/binding-arrow-to-r},
@@ -8428,7 +8415,7 @@ January 18, 2022. <a href="https://blog.djnavarro.net/binding-arrow-to-r">https:
   <category>Apache Arrow</category>
   <category>R</category>
   <guid>https://blog.djnavarro.net/posts/2022-01-18_binding-arrow-to-r/index.html</guid>
-  <pubDate>Mon, 17 Jan 2022 13:00:00 GMT</pubDate>
+  <pubDate>Mon, 17 Jan 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-01-18_binding-arrow-to-r/img/magicians_hard_glossy_armour.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -8530,7 +8517,6 @@ January 18, 2022. <a href="https://blog.djnavarro.net/binding-arrow-to-r">https:
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2022,
   author = {Danielle Navarro},
-  editor = {},
   title = {Setting {CRAN} Repository Options},
   date = {2022-01-10},
   url = {https://blog.djnavarro.net/setting-cran-repositories},
@@ -8542,7 +8528,7 @@ January 10, 2022. <a href="https://blog.djnavarro.net/setting-cran-repositories"
 </div></div></section></div> ]]></description>
   <category>R</category>
   <guid>https://blog.djnavarro.net/posts/2022-01-10_setting-cran-repositories/index.html</guid>
-  <pubDate>Sun, 09 Jan 2022 13:00:00 GMT</pubDate>
+  <pubDate>Sun, 09 Jan 2022 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2022-01-10_setting-cran-repositories/img/rasa-kasparaviciene-0TFxOkhFt14-unsplash.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -8891,7 +8877,6 @@ See $.data for the source Arrow object</code></pre>
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2021,
   author = {Danielle Navarro},
-  editor = {},
   title = {Getting Started with {Apache} {Arrow}},
   date = {2021-11-19},
   url = {https://blog.djnavarro.net/starting-apache-arrow-in-r},
@@ -8904,7 +8889,7 @@ Arrow.”</span> November 19, 2021. <a href="https://blog.djnavarro.net/starting
   <category>Apache Arrow</category>
   <category>R</category>
   <guid>https://blog.djnavarro.net/posts/2021-11-19_starting-apache-arrow-in-r/index.html</guid>
-  <pubDate>Thu, 18 Nov 2021 13:00:00 GMT</pubDate>
+  <pubDate>Thu, 18 Nov 2021 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2021-11-19_starting-apache-arrow-in-r/img/frank-busch-LpYcecGTifI-unsplash.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -9869,7 +9854,6 @@ c
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2021,
   author = {Danielle Navarro},
-  editor = {},
   title = {Data Serialisation in {R}},
   date = {2021-11-15},
   url = {https://blog.djnavarro.net/serialisation-with-rds},
@@ -9882,7 +9866,7 @@ Danielle Navarro. 2021. <span>“Data Serialisation in R.”</span> November
   <category>Serialisation</category>
   <category>R</category>
   <guid>https://blog.djnavarro.net/posts/2021-11-15_serialisation-with-rds/index.html</guid>
-  <pubDate>Sun, 14 Nov 2021 13:00:00 GMT</pubDate>
+  <pubDate>Sun, 14 Nov 2021 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2021-11-15_serialisation-with-rds/preview-image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -10292,7 +10276,6 @@ Danielle Navarro. 2021. <span>“Data Serialisation in R.”</span> November
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2021,
   author = {Danielle Navarro},
-  editor = {},
   title = {Unpredictable Paintings},
   date = {2021-11-01},
   url = {https://blog.djnavarro.net/unpredictable-paintings},
@@ -10305,7 +10288,7 @@ Danielle Navarro. 2021. <span>“Unpredictable Paintings.”</span> November
   <category>Art</category>
   <category>R</category>
   <guid>https://blog.djnavarro.net/posts/2021-11-01_unpredictable-paintings/index.html</guid>
-  <pubDate>Sun, 31 Oct 2021 13:00:00 GMT</pubDate>
+  <pubDate>Sun, 31 Oct 2021 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2021-11-01_unpredictable-paintings/featured.png" medium="image" type="image/png" height="89" width="144"/>
 </item>
 <item>
@@ -10397,7 +10380,6 @@ Danielle Navarro. 2021. <span>“Unpredictable Paintings.”</span> November
 </ol>
 </section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2021,
   author = {Danielle Navarro},
-  editor = {},
   title = {Generative Art Resources in {R}},
   date = {2021-10-19},
   url = {https://blog.djnavarro.net/rtistry-posts},
@@ -10410,7 +10392,7 @@ October 19, 2021. <a href="https://blog.djnavarro.net/rtistry-posts">https://blo
   <category>Art</category>
   <category>R</category>
   <guid>https://blog.djnavarro.net/posts/2021-10-19_rtistry-posts/index.html</guid>
-  <pubDate>Mon, 18 Oct 2021 13:00:00 GMT</pubDate>
+  <pubDate>Mon, 18 Oct 2021 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2021-10-19_rtistry-posts/preview-image.png" medium="image" type="image/png" height="89" width="144"/>
 </item>
 <item>
@@ -10922,7 +10904,6 @@ I am attesting that this twitter handle <a href="https://twitter.com/djnavarro?r
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2021,
   author = {Danielle Navarro},
-  editor = {},
   title = {How to Mint Digital Art on {HEN}},
   date = {2021-09-26},
   url = {https://blog.djnavarro.net/setting-up-on-hic-et-nunc},
@@ -10934,7 +10915,7 @@ September 26, 2021. <a href="https://blog.djnavarro.net/setting-up-on-hic-et-nun
 </div></div></section></div> ]]></description>
   <category>Art</category>
   <guid>https://blog.djnavarro.net/posts/2021-09-26_setting-up-on-hic-et-nunc/index.html</guid>
-  <pubDate>Sat, 25 Sep 2021 14:00:00 GMT</pubDate>
+  <pubDate>Sat, 25 Sep 2021 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2021-09-26_setting-up-on-hic-et-nunc/preview-image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -11413,7 +11394,6 @@ Falling back to ungrouped filter operation...</code></pre>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{navarro2021,
   author = {Danielle Navarro},
-  editor = {},
   title = {Visualising the Hits of {Queen} {Britney}},
   date = {2021-09-14},
   url = {https://blog.djnavarro.net/tidy-tuesday-billboard},
@@ -11427,7 +11407,7 @@ Britney.”</span> September 14, 2021. <a href="https://blog.djnavarro.net/tidy-
   <category>Data Visualisation</category>
   <category>R</category>
   <guid>https://blog.djnavarro.net/posts/2021-09-14_tidy-tuesday-billboard/index.html</guid>
-  <pubDate>Mon, 13 Sep 2021 14:00:00 GMT</pubDate>
+  <pubDate>Mon, 13 Sep 2021 18:30:00 GMT</pubDate>
   <media:content url="https://blog.djnavarro.net/posts/2021-09-14_tidy-tuesday-billboard/britney.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
